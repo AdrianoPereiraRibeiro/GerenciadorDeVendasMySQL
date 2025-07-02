@@ -3,7 +3,6 @@
 Este projeto implementa um sistema simples de vendas desktop em Java. Ele permite cadastrar produtos e realizar vendas.
 
 ![Captura de tela 2025-07-02 000051](https://github.com/user-attachments/assets/d16e6d80-9846-4198-b9bb-5f9aee4407b7)
-![Captura de tela 2025-07-01 230048](https://github.com/user-attachments/assets/1f3cb45e-f53a-436b-93b0-88a5b3a43955)
 ![Captura de tela 2025-07-02 000112](https://github.com/user-attachments/assets/db8319b5-9db0-40c6-9a4e-eeb8364f0f20)
 ![Captura de tela 2025-07-02 000109](https://github.com/user-attachments/assets/35fd2589-399b-43dd-99e7-6a45004f45e2)
 ![Captura de tela 2025-07-02 000104](https://github.com/user-attachments/assets/365e6303-d744-439e-a9b5-e1d4eed0cf0a)
